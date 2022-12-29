@@ -7,7 +7,7 @@
 #    host, then it will restrict all the inbound and outbound connections to only allowed hosts.
 #
 #.How to run
-#    Replace value of $allowHosts variable with your proper hosts (for example specify IP of your SIEM   
+#    Replace value of $allowedHosts variable with your proper hosts (for example specify IP of your SIEM   
 #    and FQDN of your EDR) then run the script with proper parameter.
 #
 #.Parameter isolator
