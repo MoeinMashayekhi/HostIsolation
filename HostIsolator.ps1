@@ -1,4 +1,4 @@
-﻿#################################################################################################
+﻿#######################################################################################################
 #.Synopsis 
 #    Isolate, and desolate host using the Windows Firewall.
 #
@@ -7,8 +7,8 @@
 #    host, then it will restrict all the inbound and outbound connections to only allowed hosts.
 #
 #.How to run
-#    Fill allowHosts variable with your proper hosts (for example specify IP of your SIEM and  
-#    FQDN of your EDR) then run the script with proper parameter.
+#    Replace value of $allowHosts variable with your proper hosts (for example specify IP of your SIEM   
+#    and FQDN of your EDR) then run the script with proper parameter.
 #
 #.Parameter isolator
 #    Isolate the host.
@@ -23,7 +23,7 @@
 #    Author: Moein Mashayekhi, https://github.com/MoeinMashayekhi/HostIsolator
 #    version: 1.0
 #    Creadted: 20.Jun.2022
-#################################################################################################
+#######################################################################################################
 
 
 # Specify allowed hosts.
