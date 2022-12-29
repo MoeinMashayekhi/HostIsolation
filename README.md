@@ -6,7 +6,7 @@ You can run this script with MEDC, Domain Group Policy, PSRemoting , etc., on yo
 
 ## How to run
 
-1. Fill allowHosts variable with your proper hosts (for example specify IP of your SIEM and FQDN of your EDR).
+1. Replace value of $allowHosts variable with your proper hosts (for example specify IP of your SIEM and FQDN of your EDR).
 2. Run the script with proper parameter.
 
 ### For isolation
