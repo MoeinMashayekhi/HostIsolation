@@ -1,4 +1,4 @@
-# HostIsolator
+# HostIsolation
 
 Isolate, and desolate host using the Windows Firewall.
 
