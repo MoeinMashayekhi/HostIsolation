@@ -11,10 +11,10 @@ You can run this script with MEDC, Domain Group Policy, PSRemoting , etc., on yo
 
 ### For isolation
   ```powershell
-  HostIsolator.ps1 isolate
+  HostIsolation.ps1 isolate
   ```
 ### For desolation
   ```powershell
-  HostIsolator.ps1 desolate
+  HostIsolation.ps1 desolate
   ```
 
